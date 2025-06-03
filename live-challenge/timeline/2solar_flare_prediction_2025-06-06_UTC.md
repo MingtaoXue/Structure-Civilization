@@ -15,3 +15,4 @@ Purpose: Public challenge and comparison with traditional solar flare forecastin
 **Predicted Region:** Unknown, model did not localize active region.
 
 This is the second entry in a public challenge by the Structure Civilization Model. Verification will be based on published timestamps and NOAA/SWPC reports.
+Move file to timeline for consistency.
