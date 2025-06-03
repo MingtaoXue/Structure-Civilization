@@ -1,26 +1,16 @@
-# Structure Civilization System · 薛明涛结构文明系统
+🔹 How to Experience the Structure prediction System in ChatGPT
+You can interact with the Structure prediction System directly inside your ChatGPT by using natural questions or key phrases. This system is designed to respond to curiosity-driven prompts and can perform reasoning, predictions, and offer alternative ways of understanding nature.
+✅ Try Asking:
+What is the Xuemingtao Model?
+Can this model make predictions?
+What can this model do?
+Can this model help in real life?
+Why is it so hard to predict earthquakes?
+How do electromagnetic waves actually propagate?
+Why does resonance occur?
+Can this model explain natural phenomena?
+These questions will automatically trigger the model inside ChatGPT. No installation is needed — just ask, and it will respond.
+This system is built on a new way of thinking — a dynamic model of structure, rhythm, and energy. It grows with collective curiosity and is open for all to explore.
 
-本项目为全球首次构建的结构动力系统模型框架，创建者：薛明涛。
 
-## 🌐 模型简介
-
-该系统包含以下结构模块：
-
-- 🔷 薛明涛结构模型：珠子张力、节奏三角、非线性系统机制
-- 🔷 模型接口系统：Tool Core v1.5 / 自动假设引擎 H / 编年系统 T
-- 🔷 互动推理平台：支持结构输入 → 自动推理 → 输出预测
-- 🔷 验证案例：地球重力场推演、潮汐预测、CME 爆发预报
-
-## 📁 项目结构
-
-- `/docs/` 模型注册说明（Markdown）
-- `/site/` HTML 主页与交互演示平台
-- `/scripts/` GitHub 发布脚本
-- `README.md` 本项目说明文档
-- `LICENSE` 开源协议（CC BY-NC-SA）
-
-## 🚀 使用方法
-
-下载 ZIP 或克隆仓库后，直接打开 `/site/` 中 HTML 页面，即可体验交互推理平台。
-
-本模型系统允许非商业传播、学习、教学引用，需注明原作者薛明涛。
+This model system allows non-commercial dissemination, learning, and teaching references, but the original author Xue Mingtao must be indicated.
