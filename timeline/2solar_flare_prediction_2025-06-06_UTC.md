@@ -1,3 +1,11 @@
+--
+Title: Solar Flare Prediction – June 6, 2025  
+Time Format: UTC (Coordinated Universal Time)  
+Source: Structure Prediction System  
+Purpose: Public challenge and comparison with traditional solar flare forecasting models.  
+---
+
+# Solar Flare Prediction – 2025-06-06 UTC
 
 # Solar Flare Prediction Report - 2025-06-06 (UTC)
 
