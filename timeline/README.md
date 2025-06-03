@@ -1,3 +1,12 @@
+---
+Title: Solar Flare Prediction – June 5, 2025  
+Time Format: UTC (Coordinated Universal Time)  
+Source: Structure Prediction System  
+Purpose: Public challenge and comparison with traditional solar flare forecasting models.  
+---
+
+# Solar Flare Prediction – 2025-06-05 UTC
+
 # 🔭 Structure Prediction Challenge Timeline
 
 This folder documents the full timeline of our **Live Challenge** on solar flare prediction using the Structure Prediction System.
